@@ -13,7 +13,7 @@
 
   <h3 align="center">A 3D Dev Portfolio</h3>
 
-# 🧑‍💻 3D Portfolio
+
 
 An interactive 3D developer portfolio built with **React**, **Three.js**, **React Three Fiber**, **Drei**, and **Leva**. This portfolio showcases projects, skills, and contact information in an engaging and animated 3D environment.
 
